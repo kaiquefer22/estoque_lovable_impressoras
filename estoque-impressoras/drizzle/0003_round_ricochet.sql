@@ -1,0 +1,1 @@
+ALTER TABLE `supplies` ADD `imageUrl` text;

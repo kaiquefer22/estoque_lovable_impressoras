@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX "permissionActions_moduleId_name_idx" ON "permission_actions" USING btree ("moduleId","name");

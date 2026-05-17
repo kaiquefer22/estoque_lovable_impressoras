@@ -1,0 +1,87 @@
+{
+  "name": "Controle de Estoque de Insumos - StudioLaser",
+  "short_name": "Estoque StudioLaser",
+  "description": "Sistema de gerenciamento de estoque de insumos para impressoras da StudioLaser",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#ffffff",
+  "theme_color": "#7c3aed",
+  "icons": [
+    {
+      "src": "https://d2xsxph8kpxj0f.cloudfront.net/310519663273634876/DbBnizmN2jAuFKDuTsMnj7/studiolaser-icon-192-gLLP2YDrG5cdSmAnyWQhRf.webp",
+      "sizes": "192x192",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "https://d2xsxph8kpxj0f.cloudfront.net/310519663273634876/DbBnizmN2jAuFKDuTsMnj7/studiolaser-icon-512-UsgoJngsYH9R2PwiNTEwd8.webp",
+      "sizes": "512x512",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "https://d2xsxph8kpxj0f.cloudfront.net/310519663273634876/DbBnizmN2jAuFKDuTsMnj7/studiolaser-icon-192-U72NKH6BenPK5PbSynhSz5.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://d2xsxph8kpxj0f.cloudfront.net/310519663273634876/DbBnizmN2jAuFKDuTsMnj7/studiolaser-icon-512-n5u8VNc9eQuQxiSfwTvNka.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "categories": ["productivity", "business"],
+  "screenshots": [
+    {
+      "src": "https://d2xsxph8kpxj0f.cloudfront.net/310519663273634876/DbBnizmN2jAuFKDuTsMnj7/studiolaser-icon-512-UsgoJngsYH9R2PwiNTEwd8.webp",
+      "sizes": "512x512",
+      "type": "image/webp",
+      "form_factor": "narrow"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Dashboard",
+      "short_name": "Dashboard",
+      "description": "Acesso rápido ao dashboard",
+      "url": "/",
+      "icons": [
+        {
+          "src": "https://d2xsxph8kpxj0f.cloudfront.net/310519663273634876/DbBnizmN2jAuFKDuTsMnj7/studiolaser-icon-192-gLLP2YDrG5cdSmAnyWQhRf.webp",
+          "sizes": "192x192",
+          "type": "image/webp"
+        }
+      ]
+    },
+    {
+      "name": "Insumos",
+      "short_name": "Insumos",
+      "description": "Gerenciar insumos",
+      "url": "/insumos",
+      "icons": [
+        {
+          "src": "https://d2xsxph8kpxj0f.cloudfront.net/310519663273634876/DbBnizmN2jAuFKDuTsMnj7/studiolaser-icon-192-gLLP2YDrG5cdSmAnyWQhRf.webp",
+          "sizes": "192x192",
+          "type": "image/webp"
+        }
+      ]
+    },
+    {
+      "name": "Relatórios",
+      "short_name": "Relatórios",
+      "description": "Visualizar relatórios",
+      "url": "/relatorios",
+      "icons": [
+        {
+          "src": "https://d2xsxph8kpxj0f.cloudfront.net/310519663273634876/DbBnizmN2jAuFKDuTsMnj7/studiolaser-icon-192-gLLP2YDrG5cdSmAnyWQhRf.webp",
+          "sizes": "192x192",
+          "type": "image/webp"
+        }
+      ]
+    }
+  ]
+}

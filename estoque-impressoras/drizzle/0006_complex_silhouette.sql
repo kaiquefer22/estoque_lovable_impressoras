@@ -1,0 +1,1 @@
+ALTER TABLE "supply_transfers" ADD COLUMN "status" text DEFAULT 'pendente' NOT NULL;
